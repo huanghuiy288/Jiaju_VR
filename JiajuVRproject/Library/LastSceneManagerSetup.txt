@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HTC.UnityPlugin/ViveInputUtility/Examples/0.Tutorial/Tutorial.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
