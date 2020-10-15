@@ -4,5 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/JiajuVRScene.unity
+    guid: edca183750dd1bd49b04cea42226dda4
+  - enabled: 1
+    path: Assets/Scenes/BIESHU.unity
+    guid: f756e14a2e326484f8235cccc40b95cb
   m_configObjects: {}
